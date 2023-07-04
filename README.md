@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rituraj Jha
 ======================================================================================================================================
 <h4>Frontend Developer | UI UX Designer</h4>
-🌱 I’m currently learning MERN stack development<br>⭐UI UX Designer<br>📫 How to reach me: designwithraaj@gmail.com<br>⚡I am currently studying B.tech Information Technology
+
+-🌱 I’m currently learning MERN stack development<br>
+-⭐UI UX Designer<br>
+-📫 How to reach me: designwithraj@gmail.com <br>
+-⚡I am currently studying B.tech Information Technology <br>
 
 
 ## 🌐 Socials:
