@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h4>Frontend Developer | UI UX Designer</h4>
 
 -🌱 I’m currently learning MERN stack development<br>
--⭐UI UX Designer<br>
+-⭐ UI UX Designer<br>
 -📫 How to reach me: designwithraj@gmail.com <br>
--⚡I am currently studying B.tech Information Technology <br>
+-⚡ I am currently studying B.tech Information Technology <br>
 
 
 ## 🌐 Socials:
